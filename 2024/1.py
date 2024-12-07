@@ -13,3 +13,4 @@ for i in range(len(A)):
     ans += abs(A[i] - B[i])
 
 print(ans)
+input.close()
