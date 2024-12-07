@@ -23,3 +23,4 @@ for line in input.readlines():
 
 
 print(safe_reports)
+input.close()
